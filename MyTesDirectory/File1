@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+//declare file pointer variable 
+// open file using fopen()
+//Process file usinf file pointer variable 
+//close file usinf fclose()
+//fopen, fclose, getc,putc, getw, putw
+
+int main()
+{
+
+
+
+}
